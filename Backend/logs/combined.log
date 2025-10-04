@@ -1,0 +1,1415 @@
+2025-09-28T05:11:57.634Z [ERROR]: ReferenceError: logger is not defined
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Routes/UserRoute.js:6:1
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/asynchandler.js:2:21
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-09-28T05:12:21.559Z [INFO]: inside /users
+2025-09-28T05:12:21.566Z [ERROR]: ApiError: error from route
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Routes/UserRoute.js:10:11
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/asynchandler.js:2:21
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-09-28T05:45:04.120Z [INFO]: Mongoose Connected
+2025-09-28T05:45:22.849Z [INFO]: Mongoose Connected
+2025-09-28T09:20:34.636Z [INFO]: Mongoose Connected
+2025-09-28T09:27:48.281Z [INFO]: Mongoose Connected
+2025-09-28T09:27:55.143Z [INFO]: inside /users
+2025-09-28T09:27:58.381Z [INFO]: inside /users
+2025-09-28T09:27:59.706Z [WARN]: Rate limit exceed for this IP:
+2025-09-28T09:27:59.708Z [ERROR]: ApiError: Rate limit exceed for this IP:
+    at Object.handler (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/rate-limit.js:20:11)
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:867:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:753:5
+2025-09-28T09:28:00.957Z [WARN]: Rate limit exceed for this IP:
+2025-09-28T09:28:00.959Z [ERROR]: ApiError: Rate limit exceed for this IP:
+    at Object.handler (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/rate-limit.js:20:11)
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:867:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:753:5
+2025-09-28T09:28:46.149Z [INFO]: Mongoose Connected
+2025-09-28T09:28:46.938Z [INFO]: inside /users
+2025-09-28T09:28:48.693Z [INFO]: inside /users
+2025-09-28T09:28:50.139Z [WARN]: Rate limit exceed for this IP:
+2025-09-28T09:28:50.142Z [ERROR]: ApiError: Rate limit exceed for this IP: 
+    at Object.handler (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/rate-limit.js:20:11)
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:867:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:753:5
+2025-09-28T09:28:51.661Z [WARN]: Rate limit exceed for this IP:
+2025-09-28T09:28:51.662Z [ERROR]: ApiError: Rate limit exceed for this IP: 
+    at Object.handler (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/rate-limit.js:20:11)
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:867:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:753:5
+2025-09-28T09:29:44.767Z [INFO]: Mongoose Connected
+2025-09-28T09:29:49.076Z [INFO]: inside /users
+2025-09-28T09:29:52.770Z [INFO]: inside /users
+2025-09-28T09:29:54.315Z [WARN]: Rate limit exceed for this IP:
+2025-09-28T09:29:54.317Z [ERROR]: ApiError: Rate limit exceed for this IP: 
+    at Object.handler (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/rate-limit.js:21:11)
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:867:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:753:5
+2025-09-28T09:32:19.387Z [INFO]: Mongoose Connected
+2025-09-28T09:33:29.509Z [INFO]: Mongoose Connected
+2025-09-28T09:34:47.646Z [INFO]: Mongoose Connected
+2025-09-28T09:45:59.237Z [INFO]: Mongoose Connected
+2025-09-28T10:31:43.068Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:31:43.076Z [INFO]: Login Url Microservice is running on port 5000
+2025-09-28T10:31:54.991Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:31:54.997Z [INFO]: Login Url Microservice is running on port http://localhost:5001/
+2025-09-28T10:32:24.340Z [INFO]: Mongoose Connected
+2025-09-28T10:33:33.559Z [INFO]: Recieved GET request to this url /v1/users 
+2025-09-28T10:33:33.561Z [INFO]: Recieved body :  undefined 
+2025-09-28T10:33:33.794Z [INFO]: Recieved GET request to this url / 
+2025-09-28T10:33:33.795Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:33:33.806Z [INFO]: request recieved from login url microservice 404
+2025-09-28T10:34:27.904Z [INFO]: Recieved GET request to this url /v1/users 
+2025-09-28T10:34:27.905Z [INFO]: Recieved body :  undefined 
+2025-09-28T10:34:27.920Z [INFO]: Recieved GET request to this url / 
+2025-09-28T10:34:27.922Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:34:27.926Z [INFO]: request recieved from login url microservice 404
+2025-09-28T10:34:34.167Z [INFO]: Recieved POST request to this url /v1/users 
+2025-09-28T10:34:34.169Z [INFO]: Recieved body :  undefined 
+2025-09-28T10:34:34.183Z [INFO]: Recieved POST request to this url / 
+2025-09-28T10:34:34.186Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:34:34.190Z [INFO]: request recieved from login url microservice 404
+2025-09-28T10:34:59.762Z [INFO]: Recieved POST request to this url /api/v1/users 
+2025-09-28T10:34:59.763Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:35:03.408Z [INFO]: Recieved GET request to this url /api/v1/users 
+2025-09-28T10:35:03.409Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:35:03.411Z [INFO]: inside /users
+2025-09-28T10:35:13.854Z [INFO]: Mongoose Connected
+2025-09-28T10:35:18.399Z [INFO]: Recieved GET request to this url /api/users 
+2025-09-28T10:35:18.400Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:35:18.405Z [INFO]: inside /users
+2025-09-28T10:35:29.866Z [INFO]: Recieved GET request to this url /api/users 
+2025-09-28T10:35:29.870Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:35:30.221Z [INFO]: Mongoose Connected
+2025-09-28T10:35:38.912Z [INFO]: Recieved GET request to this url /api/users 
+2025-09-28T10:35:38.918Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:35:38.945Z [INFO]: Mongoose Connected
+2025-09-28T10:35:45.766Z [INFO]: Recieved GET request to this url /api/auth/users 
+2025-09-28T10:35:45.767Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:35:45.770Z [INFO]: inside /users
+2025-09-28T10:36:15.454Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:36:15.455Z [INFO]: Recieved body :  undefined 
+2025-09-28T10:38:00.760Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:38:00.766Z [INFO]: Login Url Microservice is running on port http://localhost:5001/
+2025-09-28T10:38:06.486Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:38:06.487Z [INFO]: Recieved body :  undefined 
+2025-09-28T10:38:52.175Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:38:52.177Z [INFO]: Recieved body :  undefined 
+2025-09-28T10:39:30.951Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:39:30.954Z [INFO]: Login Url Microservice is running on port http://localhost:5001/
+2025-09-28T10:39:39.230Z [INFO]: Mongoose Connected
+2025-09-28T10:40:38.694Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:40:38.700Z [INFO]: Login Url Microservice is running on port http://localhost:5001/
+2025-09-28T10:40:47.211Z [INFO]: Recieved GET request to this url /v1/get 
+2025-09-28T10:40:47.213Z [INFO]: Recieved body :  undefined 
+2025-09-28T10:41:05.249Z [INFO]: Recieved GET request to this url /api/auth/users 
+2025-09-28T10:41:05.250Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:41:05.252Z [INFO]: inside /users
+2025-09-28T10:41:14.274Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:41:14.276Z [INFO]: Recieved body :  undefined 
+2025-09-28T10:42:25.708Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:42:25.712Z [INFO]: Login Url Microservice is running on port http://localhost:5001/
+2025-09-28T10:42:29.021Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:42:29.022Z [INFO]: Recieved body :  undefined 
+2025-09-28T10:43:19.928Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:43:19.934Z [INFO]: Login Url Microservice is running on port http://localhost:5001/
+2025-09-28T10:43:23.338Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:43:23.339Z [INFO]: Recieved body :  undefined 
+2025-09-28T10:44:05.089Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:44:05.090Z [INFO]: Recieved body :  undefined 
+2025-09-28T10:46:40.114Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:46:40.117Z [INFO]: Login Url Microservice is running on port http://localhost:5001/
+2025-09-28T10:46:43.033Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:46:43.034Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:48:02.810Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:48:02.813Z [INFO]: Login Url Microservice is running on port http://localhost:5001/
+2025-09-28T10:48:06.734Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:48:06.735Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:48:39.081Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:48:39.085Z [INFO]: Login Url Microservice is running on port http://localhost:5001/
+2025-09-28T10:48:41.436Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:48:41.437Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:48:43.255Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:48:43.256Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:49:33.908Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:49:33.909Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:50:13.627Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:50:13.632Z [INFO]: Login Url Microservice is running on port http://localhost:5001/
+2025-09-28T10:50:46.104Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:50:46.112Z [INFO]: Login Url Microservice is running on port http://localhost:5001/
+2025-09-28T10:51:36.443Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:51:36.448Z [INFO]: Login Url Microservice is running on port http://localhost:5001/
+2025-09-28T10:51:42.553Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:51:42.555Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:52:52.487Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:52:52.491Z [INFO]: Login Url Microservice is running on port http://localhost:5001
+2025-09-28T10:52:54.153Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:52:54.154Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:52:57.361Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:52:57.362Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:56:41.905Z [INFO]:  API Gateway is running on port 5000
+2025-09-28T10:56:41.911Z [INFO]: Login Url Microservice is running on port http://localhost:5001
+2025-09-28T10:56:47.488Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:56:47.489Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:57:12.243Z [INFO]: Mongoose Connected
+2025-09-28T10:57:15.323Z [INFO]: Recieved GET request to this url /v1/auth/users 
+2025-09-28T10:57:15.385Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:57:37.771Z [INFO]: API Gateway is running on port 5000
+2025-09-28T10:57:37.776Z [INFO]: Login Microservice URL: http://localhost:5001
+2025-09-28T10:57:43.511Z [INFO]: Received GET request to URL /v1/auth/users
+2025-09-28T10:57:43.512Z [INFO]: Received body: {"code":"cgasjas"}
+2025-09-28T10:58:21.585Z [INFO]: Mongoose Connected
+2025-09-28T10:58:27.183Z [INFO]: Received GET request to URL /v1/users
+2025-09-28T10:58:27.184Z [INFO]: Received body: {"code":"cgasjas"}
+2025-09-28T10:58:27.269Z [INFO]: Recieved GET request to this url /api/users 
+2025-09-28T10:58:27.270Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T10:58:27.273Z [INFO]: inside /users
+2025-09-28T10:59:46.342Z [INFO]: API Gateway is running on port 5000
+2025-09-28T10:59:46.348Z [INFO]: Login Microservice URL: http://localhost:5001
+2025-09-28T10:59:48.593Z [INFO]: API Gateway is running on port 5000
+2025-09-28T10:59:48.599Z [INFO]: Login Microservice URL: http://localhost:5001
+2025-09-28T11:03:09.378Z [INFO]: Recieved GET request to this url /api/users 
+2025-09-28T11:03:09.380Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T11:03:09.382Z [INFO]: inside /users
+2025-09-28T11:06:11.702Z [INFO]: Mongoose Connected
+2025-09-28T11:06:24.795Z [INFO]: Mongoose Connected
+2025-09-28T11:06:35.469Z [INFO]: Mongoose Connected
+2025-09-28T11:09:42.300Z [INFO]: Mongoose Connected
+2025-09-28T11:10:12.839Z [INFO]: Recieved GET request to this url /v1/auth/login 
+2025-09-28T11:10:12.841Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T11:10:38.631Z [INFO]: Recieved GET request to this url /api/auth/login 
+2025-09-28T11:10:38.632Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T11:10:38.636Z [INFO]: inside /login
+2025-09-28T11:10:44.821Z [INFO]: Recieved GET request to this url /v1/auth/login 
+2025-09-28T11:10:44.822Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T11:12:18.233Z [INFO]: Recieved GET request to this url /api/auth/login 
+2025-09-28T11:12:18.234Z [INFO]: Recieved body :  [object Object] 
+2025-09-28T11:12:18.235Z [INFO]: inside /login
+2025-10-04T05:13:06.645Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:16:17.270Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:21:10.685Z [INFO]: Recieved GET request to this url /api/auth/register 
+2025-10-04T05:21:10.694Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:21:16.503Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:21:16.504Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:21:16.508Z [ERROR]: ReferenceError: logger is not defined
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:43:9)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:21:26.167Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:21:47.851Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:21:47.859Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:21:47.862Z [ERROR]: Error in register controller :
+2025-10-04T05:22:16.640Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:22:16.644Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:22:16.647Z [ERROR]: Error in register controller :
+2025-10-04T05:23:05.211Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:23:05.215Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:23:05.217Z [ERROR]: Error in register controller :
+2025-10-04T05:23:35.112Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:24:05.619Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:24:05.628Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:24:05.635Z [ERROR]: ReferenceError: req is not defined
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:21:37)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:24:05.642Z [ERROR]: ApiError: error in register controller ReferenceError: req is not defined
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:44:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:24:22.028Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:24:22.034Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:24:22.039Z [ERROR]: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:24:19)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:24:22.043Z [ERROR]: ApiError: error in register controller ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:44:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:24:49.833Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:24:49.834Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:24:49.837Z [ERROR]: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:24:19)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:24:49.840Z [ERROR]: ApiError: error in register controller ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:44:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:24:51.680Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:26:29.562Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:26:29.570Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:26:29.573Z [ERROR]: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:24:19)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:26:29.577Z [ERROR]: ApiError: ApiError: please fill all the required fields || "Error in register controller "
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:44:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:26:48.442Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:26:48.446Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:26:48.451Z [ERROR]: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:24:19)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:26:48.454Z [ERROR]: ApiError: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:44:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:27:18.395Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:28:29.112Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:28:29.118Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:28:39.142Z [ERROR]: MongooseError: Operation `user_dbs.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-10-04T05:28:39.146Z [ERROR]: ApiError: MongooseError: Operation `user_dbs.findOne()` buffering timed out after 10000ms
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:44:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:28:55.658Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:30:22.628Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:31:21.056Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:31:21.064Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:31:21.637Z [INFO]: Mongoose Connected
+2025-10-04T05:31:21.697Z [WARN]: error while generating refresh token
+2025-10-04T05:32:26.324Z [INFO]: Mongoose Connected
+2025-10-04T05:32:27.190Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:32:27.191Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:32:27.256Z [WARN]: error while generating refresh token
+2025-10-04T05:32:45.172Z [INFO]: Mongoose Connected
+2025-10-04T05:32:49.061Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:32:49.062Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:32:49.124Z [WARN]: ReferenceError: JWT_SECRET_KEY is not defined
+    at rtoken (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:9:47)
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:32:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:33:10.030Z [INFO]: Mongoose Connected
+2025-10-04T05:33:13.134Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:33:13.135Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:33:13.199Z [WARN]: ReferenceError: JWT_SECRET_KEY is not defined
+    at rtoken (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:9:53)
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:32:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:33:46.354Z [INFO]: Mongoose Connected
+2025-10-04T05:33:49.858Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:33:49.858Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:34:18.324Z [INFO]: Mongoose Connected
+2025-10-04T05:34:18.683Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:34:18.685Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:34:38.923Z [INFO]: Mongoose Connected
+2025-10-04T05:34:41.827Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:34:41.829Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:35:42.784Z [INFO]: Mongoose Connected
+2025-10-04T05:35:45.168Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:35:45.169Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:35:53.729Z [INFO]: Mongoose Connected
+2025-10-04T05:35:54.256Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:35:54.258Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:36:10.784Z [INFO]: Mongoose Connected
+2025-10-04T05:37:07.679Z [INFO]: Mongoose Connected
+2025-10-04T05:38:13.700Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:38:13.706Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:38:14.094Z [INFO]: Mongoose Connected
+2025-10-04T05:38:41.302Z [INFO]: Mongoose Connected
+2025-10-04T05:38:42.909Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:38:42.911Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:38:43.001Z [ERROR]: TypeError: argument name is invalid
+    at Object.serialize (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\cookie\index.js:193:11)
+    at res.cookie (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\express\lib\response.js:777:36)
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:41:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:38:43.005Z [ERROR]: ApiError: TypeError: argument name is invalid
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:47:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:38:51.620Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:38:51.621Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:38:51.679Z [ERROR]: TypeError: argument name is invalid
+    at Object.serialize (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\cookie\index.js:193:11)
+    at res.cookie (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\express\lib\response.js:777:36)
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:41:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:38:51.682Z [ERROR]: ApiError: TypeError: argument name is invalid
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:47:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:44:09.378Z [INFO]: Mongoose Connected
+2025-10-04T05:44:10.077Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:44:10.079Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:44:43.900Z [INFO]: Mongoose Connected
+2025-10-04T05:44:43.994Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:44:43.995Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:44:44.366Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'isModified')
+    at model.<anonymous> (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:21:18)
+    at model.next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:97:35)
+    at _next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:146:10)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:653:30
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-10-04T05:44:44.371Z [ERROR]: ApiError: TypeError: Cannot read properties of undefined (reading 'isModified')
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:53:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:45:07.039Z [INFO]: Mongoose Connected
+2025-10-04T05:45:09.611Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:45:09.613Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:45:09.732Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'ismodified')
+    at model.<anonymous> (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:21:18)
+    at model.next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:97:35)
+    at _next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:146:10)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:653:30
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-10-04T05:45:09.735Z [ERROR]: ApiError: TypeError: Cannot read properties of undefined (reading 'ismodified')
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:53:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:45:19.885Z [INFO]: Mongoose Connected
+2025-10-04T05:45:22.916Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:45:22.918Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:45:23.022Z [ERROR]: ReferenceError: next is not defined
+    at model.<anonymous> (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:22:13)
+    at model.next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:97:35)
+    at _next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:146:10)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:653:30
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-10-04T05:45:23.026Z [ERROR]: ApiError: ReferenceError: next is not defined
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:53:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:45:36.616Z [INFO]: Mongoose Connected
+2025-10-04T05:45:38.592Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:45:38.594Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:47:03.855Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:47:03.860Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:47:04.163Z [INFO]: Mongoose Connected
+2025-10-04T05:47:04.236Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:47:04.240Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:49:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:47:19.272Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:47:19.273Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:47:19.275Z [ERROR]: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:25:19)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:47:19.278Z [ERROR]: ApiError: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:49:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:47:27.669Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:47:27.670Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:47:27.720Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:47:27.722Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:49:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:54:36.552Z [INFO]: Mongoose Connected
+2025-10-04T05:54:48.185Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:54:48.186Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:57:17.946Z [INFO]: Mongoose Connected
+2025-10-04T05:57:19.848Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:57:19.849Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:57:57.262Z [INFO]: Mongoose Connected
+2025-10-04T05:57:59.668Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:57:59.669Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:57:59.743Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:57:59.746Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:49:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:58:08.033Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:58:08.034Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:58:08.087Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:58:08.089Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:49:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:58:11.814Z [ERROR]: SyntaxError: Bad escaped character in JSON at position 46 (line 3 column 22)
+    at JSON.parse (<anonymous>)
+    at parse (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\body-parser\lib\types\json.js:77:19)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\body-parser\lib\read.js:123:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at invokeCallback (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\raw-body\index.js:238:16)
+    at done (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-10-04T05:58:17.851Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:58:17.852Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:58:21.425Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:58:21.426Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T05:59:41.137Z [INFO]: Mongoose Connected
+2025-10-04T05:59:42.224Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T05:59:42.226Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:00:12.511Z [INFO]: Mongoose Connected
+2025-10-04T06:00:34.014Z [INFO]: Mongoose Connected
+2025-10-04T06:01:50.004Z [INFO]: Mongoose Connected
+2025-10-04T06:02:04.409Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T06:02:04.410Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:02:04.473Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:02:04.476Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:47:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:02:34.332Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T06:02:34.333Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:09:22.555Z [INFO]: Mongoose Connected
+2025-10-04T06:09:31.963Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:09:31.965Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:10:24.165Z [INFO]: Mongoose Connected
+2025-10-04T06:10:26.934Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:10:26.935Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:10:26.941Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:10:26.946Z [ERROR]: ApiError: please login again
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:75:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:11:00.421Z [INFO]: Mongoose Connected
+2025-10-04T06:11:05.635Z [INFO]: Mongoose Connected
+2025-10-04T06:11:07.667Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:11:07.668Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:11:07.672Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:11:07.676Z [ERROR]: ReferenceError: next is not defined
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:75:12)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:11:22.036Z [INFO]: Mongoose Connected
+2025-10-04T06:11:28.080Z [INFO]: Mongoose Connected
+2025-10-04T06:11:28.492Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:11:28.493Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:11:28.499Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:11:28.502Z [ERROR]: ReferenceError: next is not defined
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:75:12)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:11:41.666Z [INFO]: Mongoose Connected
+2025-10-04T06:11:42.557Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:11:42.558Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:11:42.563Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:11:42.566Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:12:27.683Z [INFO]: Mongoose Connected
+2025-10-04T06:12:28.685Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:12:28.686Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:12:28.693Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'comparepassword')
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:30)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:12:28.699Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'comparepassword')
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:30)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:12:53.640Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:12:53.645Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:12:53.669Z [INFO]: Mongoose Connected
+2025-10-04T06:12:53.719Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'comparepassword')
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:12:53.721Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'comparepassword')
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:13:02.133Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:13:02.138Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:13:02.615Z [INFO]: Mongoose Connected
+2025-10-04T06:13:02.681Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'password')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:49)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:13:02.683Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'password')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:49)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:13:26.562Z [INFO]: Mongoose Connected
+2025-10-04T06:13:27.058Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:13:27.059Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:13:27.117Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'password')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:49)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:13:27.118Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'password')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:49)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:14:45.822Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:14:45.826Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:14:46.288Z [INFO]: Mongoose Connected
+2025-10-04T06:14:46.348Z [ERROR]: ReferenceError: password is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:34:35)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:14:46.350Z [ERROR]: ReferenceError: password is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:34:35)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:15:11.165Z [INFO]: Mongoose Connected
+2025-10-04T06:15:12.880Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:15:12.882Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:15:12.961Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'body')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:26)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:15:12.963Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'body')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:26)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:15:22.216Z [INFO]: Mongoose Connected
+2025-10-04T06:15:23.555Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:15:23.558Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:15:23.635Z [ERROR]: TypeError: Cannot destructure property 'password' of 'req' as it is undefined.
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:12)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:15:23.638Z [ERROR]: TypeError: Cannot destructure property 'password' of 'req' as it is undefined.
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:12)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:15:36.360Z [INFO]: Mongoose Connected
+2025-10-04T06:15:38.752Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:15:38.753Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:15:38.829Z [ERROR]: ReferenceError: password is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:34:35)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:15:38.832Z [ERROR]: ReferenceError: password is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:34:35)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:16:03.089Z [INFO]: Mongoose Connected
+2025-10-04T06:16:09.919Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:16:09.924Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:16:10.096Z [INFO]: Mongoose Connected
+2025-10-04T06:16:10.186Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'password')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:34:49)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:16:10.190Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'password')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:34:49)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:18:32.734Z [INFO]: Mongoose Connected
+2025-10-04T06:18:37.503Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:18:37.512Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:18:37.603Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:18:37.605Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:19:42.429Z [INFO]: Mongoose Connected
+2025-10-04T06:19:42.444Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:19:42.445Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:19:42.759Z [ERROR]: ReferenceError: next is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:38:5)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:19:42.761Z [ERROR]: ReferenceError: next is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:38:5)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:20:36.472Z [INFO]: Mongoose Connected
+2025-10-04T06:20:38.771Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:20:38.773Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:20:38.853Z [ERROR]: ReferenceError: next is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:38:5)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:20:38.857Z [ERROR]: ReferenceError: next is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:38:5)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:20:53.855Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:20:53.860Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:20:54.330Z [INFO]: Mongoose Connected
+2025-10-04T06:22:14.187Z [INFO]: Mongoose Connected
+2025-10-04T06:22:14.777Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:22:14.778Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:22:32.938Z [INFO]: Mongoose Connected
+2025-10-04T06:22:34.133Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:22:34.134Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:23:06.301Z [INFO]: Mongoose Connected
+2025-10-04T06:23:06.756Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:23:06.758Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:23:28.400Z [INFO]: Mongoose Connected
+2025-10-04T06:23:31.906Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:23:31.908Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:24:32.097Z [INFO]: Mongoose Connected
+2025-10-04T06:25:16.391Z [INFO]: Mongoose Connected
+2025-10-04T06:25:18.127Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:25:18.128Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:26:46.491Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:26:46.496Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:26:46.976Z [INFO]: Mongoose Connected
+2025-10-04T06:28:54.805Z [INFO]: Mongoose Connected
+2025-10-04T06:28:57.187Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:28:57.189Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:29:05.373Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:29:05.374Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:29:11.591Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:29:11.592Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:29:31.117Z [INFO]: Mongoose Connected
+2025-10-04T06:29:33.395Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:29:33.396Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:30:50.820Z [INFO]: Mongoose Connected
+2025-10-04T06:30:51.917Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:30:51.919Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:30:52.010Z [ERROR]: TypeError: User.findOneandUpdate is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:66:43)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:30:52.012Z [ERROR]: TypeError: User.findOneandUpdate is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:66:43)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:31:15.874Z [INFO]: Mongoose Connected
+2025-10-04T06:31:16.392Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:31:16.393Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:31:39.411Z [INFO]: Mongoose Connected
+2025-10-04T06:31:44.134Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:31:44.136Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:31:53.467Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:31:53.468Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:33:21.201Z [INFO]: Mongoose Connected
+2025-10-04T06:33:22.597Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:33:22.598Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:33:42.178Z [INFO]: Mongoose Connected
+2025-10-04T06:33:43.078Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:33:43.080Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:33:51.063Z [INFO]: Mongoose Connected
+2025-10-04T06:33:54.632Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:33:54.633Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:34:18.355Z [INFO]: Mongoose Connected
+2025-10-04T06:35:05.750Z [INFO]: Mongoose Connected
+2025-10-04T06:35:12.212Z [INFO]: Mongoose Connected
+2025-10-04T06:35:14.303Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:35:14.305Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:35:14.308Z [ERROR]: TypeError: req.body is not a function
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:4:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:35:34.093Z [INFO]: Mongoose Connected
+2025-10-04T06:35:37.133Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:35:37.134Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:36:08.931Z [INFO]: Mongoose Connected
+2025-10-04T06:36:10.126Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:36:10.128Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:37:03.494Z [INFO]: Mongoose Connected
+2025-10-04T06:37:10.734Z [INFO]: Mongoose Connected
+2025-10-04T06:37:13.011Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:37:13.014Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:37:13.018Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'split')
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:5:27)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:37:22.060Z [INFO]: Mongoose Connected
+2025-10-04T06:37:30.071Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:37:30.076Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:37:30.171Z [INFO]: Mongoose Connected
+2025-10-04T06:37:38.085Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:37:38.086Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:37:52.656Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:37:52.735Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:37:53.137Z [INFO]: Mongoose Connected
+2025-10-04T06:38:32.321Z [INFO]: Mongoose Connected
+2025-10-04T06:38:34.802Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:38:34.805Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:38:53.503Z [INFO]: Mongoose Connected
+2025-10-04T06:38:55.605Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:38:55.607Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:39:41.064Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:39:41.070Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:39:41.562Z [INFO]: Mongoose Connected
+2025-10-04T06:39:47.009Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:39:47.010Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:39:55.523Z [INFO]: Mongoose Connected
+2025-10-04T06:39:57.010Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:39:57.011Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:40:12.477Z [INFO]: Mongoose Connected
+2025-10-04T06:40:14.212Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:40:14.214Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:40:39.660Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:40:39.664Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:40:40.115Z [INFO]: Mongoose Connected
+2025-10-04T06:40:44.133Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:40:44.134Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:41:07.256Z [INFO]: Mongoose Connected
+2025-10-04T06:41:08.712Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:41:08.713Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:41:08.716Z [ERROR]: TypeError: token.length is not a function
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:7:25)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:41:15.889Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:41:15.894Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:41:16.108Z [INFO]: Mongoose Connected
+2025-10-04T06:41:21.307Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:41:21.308Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:42:41.499Z [INFO]: Mongoose Connected
+2025-10-04T06:42:46.770Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:42:46.771Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:42:46.784Z [ERROR]: TokenExpiredError: jwt expired
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:10:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+2025-10-04T06:43:33.309Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:43:33.313Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:43:33.323Z [ERROR]: ReferenceError: logger is not defined
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:15:5)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:43:33.666Z [INFO]: Mongoose Connected
+2025-10-04T06:43:47.925Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:43:47.929Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:43:47.937Z [ERROR]: TokenExpiredError: jwt expired
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+2025-10-04T06:43:47.941Z [ERROR]: TokenExpiredError: jwt expired
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+2025-10-04T06:43:48.356Z [INFO]: Mongoose Connected
+2025-10-04T06:43:58.231Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T06:43:58.232Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:44:08.563Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:44:08.564Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:44:42.286Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:44:42.292Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:44:42.398Z [INFO]: Mongoose Connected
+2025-10-04T06:46:52.186Z [INFO]: Mongoose Connected
+2025-10-04T06:47:06.491Z [INFO]: Mongoose Connected
+2025-10-04T06:47:09.439Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T06:47:09.440Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:47:09.446Z [ERROR]: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:70:17)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:28)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-10-04T06:47:09.449Z [ERROR]: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:70:17)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:28)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-10-04T06:55:00.574Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T06:55:00.576Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:55:08.508Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T06:55:08.509Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T06:55:08.593Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:55:08.595Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:47:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T10:38:44.539Z [INFO]: Mongoose Connected
+2025-10-04T10:38:48.412Z [INFO]: Recieved POST request to this url /api/auth/register 
+2025-10-04T10:38:48.414Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T10:38:48.489Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T10:38:48.492Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:47:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T10:39:02.999Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T10:39:03.000Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T10:39:03.010Z [ERROR]: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:70:17)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:28)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-10-04T10:39:03.014Z [ERROR]: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:70:17)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:28)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-10-04T10:39:21.901Z [INFO]: Mongoose Connected
+2025-10-04T10:39:24.452Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T10:39:24.454Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T10:39:24.462Z [ERROR]: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:70:17)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:28)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-10-04T10:39:24.466Z [ERROR]: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:70:17)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:28)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-10-04T10:40:24.551Z [INFO]: Mongoose Connected
+2025-10-04T10:40:25.905Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T10:40:25.907Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T10:40:45.749Z [INFO]: Mongoose Connected
+2025-10-04T10:44:01.137Z [INFO]: Mongoose Connected
+2025-10-04T10:44:03.216Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T10:44:03.217Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T10:52:09.005Z [INFO]: Mongoose Connected
+2025-10-04T10:52:09.779Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T10:52:09.781Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T10:57:03.847Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T10:57:03.857Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T10:57:04.084Z [INFO]: Mongoose Connected
+2025-10-04T10:57:09.873Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T10:57:09.875Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T10:58:27.223Z [INFO]: Mongoose Connected
+2025-10-04T10:58:32.139Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T10:58:32.141Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T10:58:41.274Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T10:58:41.275Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T10:59:08.633Z [INFO]: Mongoose Connected
+2025-10-04T10:59:09.211Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T10:59:09.232Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T10:59:09.349Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:26:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T10:59:09.356Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:26:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T10:59:49.574Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T10:59:49.798Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T10:59:50.228Z [INFO]: Mongoose Connected
+2025-10-04T10:59:50.302Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:27:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T10:59:50.306Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:27:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T11:00:20.717Z [INFO]: Mongoose Connected
+2025-10-04T11:00:23.091Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:00:23.092Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:00:23.195Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:28:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T11:00:23.199Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:28:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T11:00:37.845Z [INFO]: Mongoose Connected
+2025-10-04T11:00:45.109Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:00:45.114Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:00:45.248Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:28:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T11:00:45.251Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:28:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T11:01:16.931Z [INFO]: Mongoose Connected
+2025-10-04T11:01:18.151Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:01:18.152Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:02:05.939Z [INFO]: Mongoose Connected
+2025-10-04T11:02:07.055Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:02:07.057Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:04:21.474Z [INFO]: Mongoose Connected
+2025-10-04T11:04:26.424Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:04:26.425Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:04:57.095Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:04:57.098Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:05:02.761Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:05:02.762Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:05:38.790Z [INFO]: Mongoose Connected
+2025-10-04T11:05:40.189Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:05:40.191Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:05:50.197Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:05:50.198Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:06:50.617Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:06:50.618Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:07:11.666Z [INFO]: Mongoose Connected
+2025-10-04T11:07:12.728Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:07:12.729Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:07:34.583Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T11:07:34.584Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:09:49.333Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:09:49.334Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:18:04.534Z [INFO]: Mongoose Connected
+2025-10-04T11:18:45.172Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:18:45.184Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:19:17.921Z [INFO]: Mongoose Connected
+2025-10-04T11:19:21.092Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:19:21.093Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:19:28.785Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:19:28.786Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:19:44.420Z [INFO]: Recieved POST request to this url /api/auth/login 
+2025-10-04T11:19:44.423Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:19:44.826Z [INFO]: Mongoose Connected
+2025-10-04T11:20:17.682Z [INFO]: Mongoose Connected
+2025-10-04T11:20:20.576Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:20:20.577Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:20:59.192Z [INFO]: Mongoose Connected
+2025-10-04T11:21:01.808Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:21:01.812Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:21:24.908Z [INFO]: Mongoose Connected
+2025-10-04T11:21:38.305Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:21:38.307Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:21:38.311Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:21:38.315Z [ERROR]: something went wrong
+2025-10-04T11:21:55.174Z [INFO]: Mongoose Connected
+2025-10-04T11:22:04.023Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:22:04.024Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:22:04.027Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:22:04.030Z [ERROR]: something went wrong
+2025-10-04T11:22:29.767Z [INFO]: Mongoose Connected
+2025-10-04T11:23:04.538Z [INFO]: Mongoose Connected
+2025-10-04T11:23:19.441Z [INFO]: Mongoose Connected
+2025-10-04T11:23:20.919Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:23:20.927Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:23:20.931Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:23:20.944Z [ERROR]: something went wrong
+2025-10-04T11:23:44.907Z [INFO]: Mongoose Connected
+2025-10-04T11:24:20.121Z [INFO]: Mongoose Connected
+2025-10-04T11:24:20.599Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:24:20.600Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:24:20.603Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:24:20.607Z [ERROR]: something went wrong
+2025-10-04T11:24:50.391Z [INFO]: Mongoose Connected
+2025-10-04T11:24:50.703Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:24:50.704Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:24:50.706Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:24:50.709Z [ERROR]: something went wrong
+2025-10-04T11:25:08.647Z [INFO]: Mongoose Connected
+2025-10-04T11:25:09.199Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:25:09.201Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:25:09.203Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:25:09.207Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:25:45.589Z [INFO]: Mongoose Connected
+2025-10-04T11:25:47.053Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:25:47.055Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:25:47.059Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:25:47.064Z [ERROR]: something went wrong
+2025-10-04T11:26:24.329Z [INFO]: Mongoose Connected
+2025-10-04T11:26:46.024Z [INFO]: Mongoose Connected
+2025-10-04T11:26:46.565Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:26:46.566Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:26:46.570Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:26:46.574Z [ERROR]: something went wrong
+2025-10-04T11:27:03.828Z [INFO]: Mongoose Connected
+2025-10-04T11:27:04.083Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:27:04.084Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:27:04.089Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:27:04.093Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:27:48.796Z [INFO]: Mongoose Connected
+2025-10-04T11:27:49.214Z [INFO]: Recieved POST request to this url /api/auth/home 
+2025-10-04T11:27:49.215Z [INFO]: Recieved body :  [object Object] 
+2025-10-04T11:27:49.218Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:27:49.221Z [ERROR]: something went wrong
+2025-10-04T11:27:56.320Z [INFO]: Mongoose Connected
+2025-10-04T11:28:14.687Z [INFO]: Mongoose Connected
+2025-10-04T11:28:21.285Z [INFO]: Mongoose Connected
+2025-10-04T11:28:23.743Z [INFO]: Mongoose Connected

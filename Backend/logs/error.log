@@ -1,0 +1,835 @@
+2025-09-28T05:11:57.634Z [ERROR]: ReferenceError: logger is not defined
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Routes/UserRoute.js:6:1
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/asynchandler.js:2:21
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-09-28T05:12:21.566Z [ERROR]: ApiError: error from route
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Routes/UserRoute.js:10:11
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/asynchandler.js:2:21
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-09-28T09:27:59.708Z [ERROR]: ApiError: Rate limit exceed for this IP:
+    at Object.handler (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/rate-limit.js:20:11)
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:867:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:753:5
+2025-09-28T09:28:00.959Z [ERROR]: ApiError: Rate limit exceed for this IP:
+    at Object.handler (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/rate-limit.js:20:11)
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:867:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:753:5
+2025-09-28T09:28:50.142Z [ERROR]: ApiError: Rate limit exceed for this IP: 
+    at Object.handler (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/rate-limit.js:20:11)
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:867:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:753:5
+2025-09-28T09:28:51.662Z [ERROR]: ApiError: Rate limit exceed for this IP: 
+    at Object.handler (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/rate-limit.js:20:11)
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:867:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:753:5
+2025-09-28T09:29:54.317Z [ERROR]: ApiError: Rate limit exceed for this IP: 
+    at Object.handler (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/rate-limit.js:21:11)
+    at file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:867:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/node_modules/express-rate-limit/dist/index.mjs:753:5
+2025-10-04T05:13:06.645Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:16:17.270Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:21:16.508Z [ERROR]: ReferenceError: logger is not defined
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:43:9)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:21:26.167Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:21:47.862Z [ERROR]: Error in register controller :
+2025-10-04T05:22:16.647Z [ERROR]: Error in register controller :
+2025-10-04T05:23:05.217Z [ERROR]: Error in register controller :
+2025-10-04T05:23:35.112Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:24:05.635Z [ERROR]: ReferenceError: req is not defined
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:21:37)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:24:05.642Z [ERROR]: ApiError: error in register controller ReferenceError: req is not defined
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:44:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:24:22.039Z [ERROR]: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:24:19)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:24:22.043Z [ERROR]: ApiError: error in register controller ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:44:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:24:49.837Z [ERROR]: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:24:19)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:24:49.840Z [ERROR]: ApiError: error in register controller ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:44:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:24:51.680Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:26:29.573Z [ERROR]: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:24:19)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:26:29.577Z [ERROR]: ApiError: ApiError: please fill all the required fields || "Error in register controller "
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:44:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:26:48.451Z [ERROR]: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:24:19)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:26:48.454Z [ERROR]: ApiError: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:44:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:27:18.395Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:28:39.142Z [ERROR]: MongooseError: Operation `user_dbs.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:187:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-10-04T05:28:39.146Z [ERROR]: ApiError: MongooseError: Operation `user_dbs.findOne()` buffering timed out after 10000ms
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:44:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:28:55.658Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:30:22.628Z [ERROR]: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1165:11)
+    at NativeConnection.openUri (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\mongoose\lib\connection.js:1096:11)
+    at async db_connect (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Util/Db_Connect.js:7:10)
+2025-10-04T05:38:43.001Z [ERROR]: TypeError: argument name is invalid
+    at Object.serialize (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\cookie\index.js:193:11)
+    at res.cookie (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\express\lib\response.js:777:36)
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:41:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:38:43.005Z [ERROR]: ApiError: TypeError: argument name is invalid
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:47:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:38:51.679Z [ERROR]: TypeError: argument name is invalid
+    at Object.serialize (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\cookie\index.js:193:11)
+    at res.cookie (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\express\lib\response.js:777:36)
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:41:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:38:51.682Z [ERROR]: ApiError: TypeError: argument name is invalid
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:47:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:44:44.366Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'isModified')
+    at model.<anonymous> (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:21:18)
+    at model.next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:97:35)
+    at _next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:146:10)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:653:30
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-10-04T05:44:44.371Z [ERROR]: ApiError: TypeError: Cannot read properties of undefined (reading 'isModified')
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:53:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:45:09.732Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'ismodified')
+    at model.<anonymous> (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:21:18)
+    at model.next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:97:35)
+    at _next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:146:10)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:653:30
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-10-04T05:45:09.735Z [ERROR]: ApiError: TypeError: Cannot read properties of undefined (reading 'ismodified')
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:53:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:45:23.022Z [ERROR]: ReferenceError: next is not defined
+    at model.<anonymous> (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:22:13)
+    at model.next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:97:35)
+    at _next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:146:10)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\kareem\index.js:653:30
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-10-04T05:45:23.026Z [ERROR]: ApiError: ReferenceError: next is not defined
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:53:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:47:04.236Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:47:04.240Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:49:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:47:19.275Z [ERROR]: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:25:19)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:47:19.278Z [ERROR]: ApiError: ApiError: please fill all the required fields
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:49:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T05:47:27.720Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:47:27.722Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:49:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:57:59.743Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:57:59.746Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:49:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:58:08.087Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:58:08.089Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:49:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T05:58:11.814Z [ERROR]: SyntaxError: Bad escaped character in JSON at position 46 (line 3 column 22)
+    at JSON.parse (<anonymous>)
+    at parse (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\body-parser\lib\types\json.js:77:19)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\body-parser\lib\read.js:123:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at invokeCallback (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\raw-body\index.js:238:16)
+    at done (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-10-04T06:02:04.473Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:02:04.476Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:47:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:10:26.941Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:10:26.946Z [ERROR]: ApiError: please login again
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:75:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:11:07.672Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:11:07.676Z [ERROR]: ReferenceError: next is not defined
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:75:12)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:11:28.499Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:11:28.502Z [ERROR]: ReferenceError: next is not defined
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:75:12)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:11:42.563Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:11:42.566Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:12:28.693Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'comparepassword')
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:30)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:12:28.699Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'comparepassword')
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:30)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:12:53.719Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'comparepassword')
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:12:53.721Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'comparepassword')
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:13:02.681Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'password')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:49)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:13:02.683Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'password')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:49)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:62:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:13:27.117Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'password')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:49)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:13:27.118Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'password')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:49)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:14:46.348Z [ERROR]: ReferenceError: password is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:34:35)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:14:46.350Z [ERROR]: ReferenceError: password is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:34:35)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:15:12.961Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'body')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:26)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:15:12.963Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'body')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:26)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:15:23.635Z [ERROR]: TypeError: Cannot destructure property 'password' of 'req' as it is undefined.
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:12)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:15:23.638Z [ERROR]: TypeError: Cannot destructure property 'password' of 'req' as it is undefined.
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:33:12)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:15:38.829Z [ERROR]: ReferenceError: password is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:34:35)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:15:38.832Z [ERROR]: ReferenceError: password is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:34:35)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:16:10.186Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'password')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:34:49)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:16:10.190Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'password')
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:34:49)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:18:37.603Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:18:37.605Z [ERROR]: TypeError: data.comparepassword is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:19:42.759Z [ERROR]: ReferenceError: next is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:38:5)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:19:42.761Z [ERROR]: ReferenceError: next is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:38:5)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:20:38.853Z [ERROR]: ReferenceError: next is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:38:5)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:20:38.857Z [ERROR]: ReferenceError: next is not defined
+    at UserSchema.methods.comparepassword (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Models/UserModel.js:38:5)
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:63:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:30:52.010Z [ERROR]: TypeError: User.findOneandUpdate is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:66:43)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:30:52.012Z [ERROR]: TypeError: User.findOneandUpdate is not a function
+    at login (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:66:43)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:35:14.308Z [ERROR]: TypeError: req.body is not a function
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:4:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:37:13.018Z [ERROR]: TypeError: Cannot read properties of undefined (reading 'split')
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:5:27)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:41:08.716Z [ERROR]: TypeError: token.length is not a function
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:7:25)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:42:46.784Z [ERROR]: TokenExpiredError: jwt expired
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:10:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+2025-10-04T06:43:33.323Z [ERROR]: ReferenceError: logger is not defined
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:15:5)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T06:43:47.937Z [ERROR]: TokenExpiredError: jwt expired
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+2025-10-04T06:43:47.941Z [ERROR]: TokenExpiredError: jwt expired
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:15)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+2025-10-04T06:47:09.446Z [ERROR]: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:70:17)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:28)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-10-04T06:47:09.449Z [ERROR]: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:70:17)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:28)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-10-04T06:55:08.593Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T06:55:08.595Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:47:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T10:38:48.489Z [ERROR]: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:30:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T10:38:48.492Z [ERROR]: ApiError: ApiError: User already exists in the database
+    at register (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Controller/user.controller.js:47:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T10:39:03.010Z [ERROR]: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:70:17)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:28)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-10-04T10:39:03.014Z [ERROR]: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:70:17)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:28)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-10-04T10:39:24.462Z [ERROR]: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:70:17)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:28)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-10-04T10:39:24.466Z [ERROR]: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\jsonwebtoken\verify.js:70:17)
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:12:28)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+2025-10-04T10:59:09.349Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:26:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T10:59:09.356Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:26:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T10:59:50.302Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:27:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T10:59:50.306Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:27:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T11:00:23.195Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:28:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T11:00:23.199Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:28:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T11:00:45.248Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:28:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T11:00:45.251Z [ERROR]: ApiError: Token Expired , please login again
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:28:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-04T11:21:38.311Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:21:38.315Z [ERROR]: something went wrong
+2025-10-04T11:22:04.027Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:22:04.030Z [ERROR]: something went wrong
+2025-10-04T11:23:20.931Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:23:20.944Z [ERROR]: something went wrong
+2025-10-04T11:24:20.603Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:24:20.607Z [ERROR]: something went wrong
+2025-10-04T11:24:50.706Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:24:50.709Z [ERROR]: something went wrong
+2025-10-04T11:25:09.203Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:25:09.207Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:25:47.059Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:25:47.064Z [ERROR]: something went wrong
+2025-10-04T11:26:46.570Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:26:46.574Z [ERROR]: something went wrong
+2025-10-04T11:27:04.089Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:27:04.093Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:27:49.218Z [ERROR]: ApiError: No token, authorization denied
+    at Auth (file:///D:/timepass/DEKHTE%20HAII_AUKAT%20HAII/Backend/Middlewares/Auth.Middleware.js:9:23)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\lib\layer.js:152:17)
+    at D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:295:15
+    at processParams (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:582:12)
+    at next (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:291:5)
+    at Function.handle (D:\timepass\DEKHTE HAII_AUKAT HAII\Backend\node_modules\router\index.js:186:3)
+2025-10-04T11:27:49.221Z [ERROR]: something went wrong

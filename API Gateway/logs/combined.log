@@ -1,0 +1,30 @@
+2025-09-28T11:00:42.759Z [INFO]: API Gateway is running on port 5000
+2025-09-28T11:00:42.762Z [INFO]: Login Microservice URL: http://localhost:5001
+2025-09-28T11:01:22.006Z [INFO]: API Gateway is running on port 5000
+2025-09-28T11:01:22.015Z [INFO]: Login Microservice URL: http://localhost:5001
+2025-09-28T11:01:23.974Z [INFO]: API Gateway is running on port 5000
+2025-09-28T11:01:23.977Z [INFO]: Login Microservice URL: http://localhost:5001
+2025-09-28T11:01:32.335Z [INFO]: API Gateway is running on port 5000
+2025-09-28T11:01:32.338Z [INFO]: Login Microservice URL: http://localhost:5001
+2025-09-28T11:03:06.624Z [INFO]: API Gateway is running on port 5000
+2025-09-28T11:03:06.632Z [INFO]: Login Microservice URL: http://localhost:5001
+2025-09-28T11:03:09.345Z [INFO]: Received GET request to URL /v1/users
+2025-09-28T11:03:09.346Z [INFO]: Received body: {"code":"cgasjas"}
+2025-09-28T11:06:35.591Z [INFO]: Received GET request to URL /v1/auth/login
+2025-09-28T11:06:35.593Z [INFO]: Received body: {"code":"cgasjas"}
+2025-09-28T11:09:20.260Z [INFO]: Received GET request to URL /v1/auth/login
+2025-09-28T11:09:20.261Z [INFO]: Received body: {"code":"cgasjas"}
+2025-09-28T11:09:43.463Z [INFO]: API Gateway is running on port 5000
+2025-09-28T11:09:43.470Z [INFO]: Login Microservice URL: http://localhost:5001
+2025-09-28T11:09:47.216Z [INFO]: Received GET request to URL /v1/auth/login
+2025-09-28T11:09:47.216Z [INFO]: Received body: {"code":"cgasjas"}
+2025-09-28T11:10:53.059Z [INFO]: Received GET request to URL /v1/auth/login
+2025-09-28T11:10:53.061Z [INFO]: Received body: {"code":"cgasjas"}
+2025-09-28T11:11:19.854Z [INFO]: API Gateway is running on port 5000
+2025-09-28T11:11:19.860Z [INFO]: Login Microservice URL: http://localhost:5001
+2025-09-28T11:11:24.081Z [INFO]: Received GET request to URL /v1/auth/login
+2025-09-28T11:11:24.082Z [INFO]: Received body: {"code":"cgasjas"}
+2025-09-28T11:12:16.406Z [INFO]: API Gateway is running on port 5000
+2025-09-28T11:12:16.410Z [INFO]: Login Microservice URL: http://localhost:5001
+2025-09-28T11:12:18.214Z [INFO]: Received GET request to URL /v1/auth/login
+2025-09-28T11:12:18.215Z [INFO]: Received body: {"code":"cgasjas"}
